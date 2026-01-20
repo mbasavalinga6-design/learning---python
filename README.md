@@ -1,2 +1,2 @@
-# learning---puthon
+# learning---python
 my first GitHub repositary
